@@ -1,0 +1,88 @@
+Country_Code,Country_Name,Country_Name_wv2_countries.csv,Country_Name_wv3_countries.csv,Country_Name_wv4_countries.csv,Country_Name_wv5_countries.csv
+32,Argentina,Argentina,Argentina,Argentina,Argentina
+36,Australia,,Australia,,Australia
+246,Finland,,Finland,,Finland
+348,Hungary,,Hungary,,Hungary
+392,Japan,Japan,Japan,Japan,Japan
+410,South Korea,South Korea,South Korea,South Korea,South Korea
+484,Mexico,Mexico,Mexico,Mexico,Mexico
+710,South Africa,South Africa,South Africa,South Africa,
+752,Sweden,,Sweden,Sweden,Sweden
+840,United States,,United States,United States,United States
+76,,Brazil,Brazil,,Brazil
+112,,Belarus,Belarus,,
+152,,Chile,Chile,Chile,Chile
+156,,China,China,China,China
+203,,Czech Rep.,Czech Rep.,,
+356,,India,India,India,
+566,,Nigeria,Nigeria,Nigeria,
+616,,Poland,Poland,,Poland
+643,,Russia,Russia,,Russia
+703,,Slovakia,Slovakia,,
+724,,Spain,Spain,Spain,
+756,,Switzerland,Switzerland,,
+792,,Turkey,Turkey,Turkey,Turkey
+8,,,Albania,Albania,
+31,,,Azerbaijan,,
+50,,,Bangladesh,Bangladesh,
+51,,,Armenia,,
+100,,,Bulgaria,,Bulgaria
+101,,,SrpSka Republic,,
+158,,,Taiwan,,Taiwan
+170,,,Colombia,,Colombia
+191,,,Croatia,,
+214,,,Dominican Rep.,,
+222,,,El Salvador,,
+233,,,Estonia,,
+268,,,Georgia,,Georgia
+276,,,Germany,,
+428,,,Latvia,,
+440,,,Lithuania,,
+498,,,Moldova,Moldova,Moldova
+554,,,New Zealand,,New Zealand
+578,,,Norway,,Norway
+586,,,Pakistan,Pakistan,
+604,,,Peru,Peru,
+608,,,Philippines,Philippines,
+630,,,Puerto Rico,Puerto Rico,
+642,,,Romania,,Romania
+705,,,Slovenia,,Slovenia
+804,,,Ukraine,,Ukraine
+807,,,Macedonia,Macedonia,
+826,,,United Kingdom,,United Kingdom
+858,,,Uruguay,,Uruguay
+862,,,Venezuela,Venezuela,
+911,,,Serbia,Serbia,
+912,,,Montenegro,Montenegro,
+914,,,Bosnia,,
+12,,,,Algeria,
+70,,,,Bosnia Herzegovina,
+124,,,,Canada,Canada
+360,,,,Indonesia,
+364,,,,Iran,
+368,,,,Iraq,
+376,,,,Israel,
+400,,,,Jordan,
+417,,,,Kyrgyzstan,
+504,,,,Morocco,
+682,,,,Saudi Arabia,
+702,,,,Singapore,
+704,,,,Vietnam,
+716,,,,Zimbabwe,
+800,,,,Uganda,
+818,,,,Egypt,
+834,,,,Tanzania,
+20,,,,,Andorra
+196,,,,,Cyprus
+231,,,,,Ethiopia
+250,,,,,France
+466,,,,,Mali
+528,,,,,Netherlands
+646,,,,,Rwanda
+688,,,,,Serbia
+764,,,,,Thailand
+780,,,,,Trinidad and Tobago
+854,,,,,Burkina Faso
+894,,,,,Zambia
+900,,,,,West Germany
+901,,,,,East Germany

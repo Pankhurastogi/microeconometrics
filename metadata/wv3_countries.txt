@@ -1,0 +1,56 @@
+8 Albania
+31 Azerbaijan
+32 Argentina
+36 Australia
+50 Bangladesh
+51 Armenia
+76 Brazil
+100 Bulgaria
+101 SrpSka Republic
+112 Belarus
+152 Chile
+156 China
+158 Taiwan
+170 Colombia
+191 Croatia
+203 Czech Rep.
+214 Dominican Rep.
+222 El Salvador
+233 Estonia
+246 Finland
+268 Georgia
+276 Germany
+348 Hungary
+356 India
+392 Japan
+410 South Korea
+428 Latvia
+440 Lithuania
+484 Mexico
+498 Moldova
+554 New Zealand
+566 Nigeria
+578 Norway
+586 Pakistan
+604 Peru
+608 Philippines
+616 Poland
+630 Puerto Rico
+642 Romania
+643 Russia
+703 Slovakia
+705 Slovenia
+710 South Africa
+724 Spain
+752 Sweden
+756 Switzerland
+792 Turkey
+804 Ukraine
+807 Macedonia
+826 United Kingdom
+840 United States
+858 Uruguay
+862 Venezuela
+911 Serbia
+912 Montenegro
+914 Bosnia

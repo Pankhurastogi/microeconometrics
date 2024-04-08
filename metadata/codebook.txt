@@ -1,0 +1,83 @@
+Wave 1:
+V1   - wave
+V2   - code
+V214 - sex 
+V32  - membership
+V118 - petition
+V119 - boycott
+V121 - other
+V120 - demonstration
+V37  - friends
+V216 - age
+V89 - marital status 
+V220 - employment
+V90 - children 
+V217 - education 
+Y002 - year 
+
+Wave 2: 
+V1
+V2 
+V353 (V214)
+V23 (V32)
+V242 (V118)
+V243 (V119)
+V244 (V120)
+V245 (V121)
+V10 (V37)
+V355 (V216)
+V181 (V89)
+V358 (V220)
+V211 (V90)
+V375 (V217)
+V377 (V237)
+
+Wave 3:
+V1
+V2
+V214 
+V32 (V32)
+V118 - petition
+V119 - boycott
+V121 - unofficial strike
+V120 - peaceful demonstration 
+V216 - age
+V89 - marital status 
+V220 - employment
+V90 - children 
+V217 - education 
+V37 (V37)
+V238 (V237)
+
+Wave 4:
+V1
+V2 
+V223 (V214)
+V43 (V32)
+V134 (V118)
+V135 (V119)
+V136 (V120)
+V137 (V121)
+V32 (V37)
+V225 (V216)
+V106 (V89)
+V229 (V220)
+V107 (V90)
+V226 (V217)
+V246 (V237)
+
+Wave 5:
+V1
+V2
+V235 (V214)
+V28 (V32)
+V96 (V118)
+V97 (V119)
+V98 (V120)
+V99 (V121)
+V237 (V216)
+V55 (V89)
+V231 (V220)
+V56 (V90)
+V238 (V217) 
+V260 (V237)
